@@ -1,0 +1,8 @@
+{
+  "mainnet": {
+    "BPRO": {
+      "address": "0xbbBBBBB5AA847A2003fbC6b5C16DF0Bd1E725f61",
+      "startBlock": 12288649
+    }
+  }
+}
